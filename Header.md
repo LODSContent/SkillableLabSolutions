@@ -13,7 +13,7 @@
 </style>
 
 <center>
-!IMAGE[SkillableLSIsmall.png](https://raw.githubusercontent.com/LODSContent/LabSolutions-Dev/main/SkillableLSIsmall.png)
+!IMAGE[SkillableLSIsmall.png](instructions263965/SkillableLSIsmall.png)
 
 @lab.Title
 
@@ -21,7 +21,7 @@
 <br>
 
 <div class=box>
-<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates,Skillable Optimizations,Software Licensing,Using this Template]
+<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates,Skillable Optimizations,Software Licensing,Using this Template,Scoring this Template]
 </div>
 
 ---
