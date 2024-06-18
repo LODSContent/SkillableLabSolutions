@@ -71,6 +71,10 @@ For more information, see the [Windows licensing](https://docs.skillable.com/doc
 
 ## Using this Template
 
+>[+Alert]Saving changes
+>
+>If you customize the software environment the changes need to be saved to become persistent.  Review the section below on committing changes to see how to do this.
+
 >[+]How do I activate Microsoft Windows?
 >
 >Activating Windows for labs can be achieved one of three ways depending on your use cases:
