@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Description** | Microsoft Office Volume License edition on ESX |
 | **Operating System** | Windows Server 2022 VL |
-| **Software/Configuration** | Default installation with Destkop Experience, Microsoft Office 365 installed. |
+| **Software/Configuration** | Default installation with Destkop Experience, Office VL installed. |
 | **Platform/Fabric** | ESX Virtual Machine |
 | **Hardware** | 2 CPU, 4GB Memory |
 | **Networking** | Internet access provided |
@@ -37,7 +37,7 @@
 | Software Product | Install Date or Version | Configuration Notes |
 | :--- | :--- | :--- |
 | Windows Server 2022 | 21H2 | Installed with the latest patches and updates.|
-| Microsoft Office | 365 | M365 installed and ready for activation. |
+| Microsoft Office | 2021 | Volume License edition installed and ready for activation. |
 | | |
 
 
