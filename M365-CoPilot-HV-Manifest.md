@@ -36,7 +36,8 @@
 
 | Software Product | Install Date or Version | Configuration Notes |
 | :--- | :--- | :--- |
-| Windows Server 2022 | 21H2 | Installed with the latest patches and updates.
+| Windows Server 2022 | 21H2 | Installed with the latest patches and updates.|
+| Microsoft Office | 365 | M365 installed and ready for activation. |
 | | |
 
 
