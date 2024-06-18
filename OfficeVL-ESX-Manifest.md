@@ -4,10 +4,10 @@
 
 | Item | Detail |
 | :--- | :--- |
-| **Description** | Microsoft Office 365 edition on Hyper-V |
+| **Description** | Microsoft Office Volume License edition on ESX |
 | **Operating System** | Windows Server 2022 VL |
 | **Software/Configuration** | Default installation with Destkop Experience, Microsoft Office 365 installed. |
-| **Platform/Fabric** | Hyper-V Virtual Machine |
+| **Platform/Fabric** | ESX Virtual Machine |
 | **Hardware** | 2 CPU, 4GB Memory |
 | **Networking** | Internet access provided |
 |  |  |
