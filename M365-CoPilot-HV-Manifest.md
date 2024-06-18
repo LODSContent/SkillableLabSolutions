@@ -4,7 +4,7 @@
 
 | Item | Detail |
 | :--- | :--- |
-| **Description** | Windows Server 2022 with Edge |
+| **Description** | Microsoft Office 365 edition on Hyper-V |
 | **Operating System** | Windows Server 2022 VL |
 | **Software/Configuration** | Default installation with Destkop Experience, no supplemental software |
 | **Platform/Fabric** | Hyper-V Virtual Machine |
