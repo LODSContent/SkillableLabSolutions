@@ -15,8 +15,6 @@
 <center>
 !IMAGE[SkillableLSIsmall.png](https://raw.githubusercontent.com/LODSContent/SkillableLabSolutions/main/SkillableLSIsmall.png){300}
 
----
-
 @lab.Title
 
 </center>
@@ -26,4 +24,4 @@
 <b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates,Skillable Optimizations,Software Licensing,Using this Template,Scoring this Template]
 </div>
 
-
+---
